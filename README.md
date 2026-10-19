@@ -1,6 +1,6 @@
-# Gugel Klasrum
+# Gugel Classroom
 
-**Gugel Klasrum** adalah aplikasi pembelajaran digital yang dikembangkan sebagai proyek Ujian Tengah Semester (UTS). Aplikasi ini terinspirasi dari Google Classroom dengan nama yang dimodifikasi menjadi Gugel Klasrum.
+**Gugel Classroom** adalah aplikasi pembelajaran digital yang dikembangkan sebagai proyek Ujian Tengah Semester (UTS). Aplikasi ini terinspirasi dari Google Classroom dengan nama yang dimodifikasi menjadi Gugel Klasrum.
 
 Aplikasi ini dikembangkan menggunakan Flutter untuk frontend, Laravel (PHP) untuk backend REST API, dan MySQL sebagai database.
 
