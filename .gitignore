@@ -1,0 +1,12 @@
+backend/.env
+backend/vendor/
+backend/node_modules/
+backend/database/database.sqlite
+backend/storage/logs/*
+backend/storage/framework/cache/*
+frontend/.dart_tool/
+frontend/build/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+
+frontend/android/.kotlin/
